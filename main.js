@@ -14,6 +14,9 @@ window.onload=function (){
       document.getElementById("pregunta").innerHTML =
       xmlDoc.getElementsByTagName("question")[0].childNodes[0].nodeValue;
       
+      document.getElementById("imagen").src =
+      xmlDoc.getElementsByTagName("imagen")[0].childNodes[0].nodeValue;
+      
       document.getElementById("respuesta1").innerHTML =
       xmlDoc.getElementsByTagName("answer")[0].childNodes[0].nodeValue;
 
