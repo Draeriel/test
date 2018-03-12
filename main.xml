@@ -1,210 +1,71 @@
-<CATALOG>
-<CD>
-<TITLE>Empire Burlesque</TITLE>
-<ARTIST>Bob Dylan</ARTIST>
-<COUNTRY>USA</COUNTRY>
-<COMPANY>Columbia</COMPANY>
-<PRICE>10.90</PRICE>
-<YEAR>1985</YEAR>
-</CD>
-<CD>
-<TITLE>Hide your heart</TITLE>
-<ARTIST>Bonnie Tyler</ARTIST>
-<COUNTRY>UK</COUNTRY>
-<COMPANY>CBS Records</COMPANY>
-<PRICE>9.90</PRICE>
-<YEAR>1988</YEAR>
-</CD>
-<CD>
-<TITLE>Greatest Hits</TITLE>
-<ARTIST>Dolly Parton</ARTIST>
-<COUNTRY>USA</COUNTRY>
-<COMPANY>RCA</COMPANY>
-<PRICE>9.90</PRICE>
-<YEAR>1982</YEAR>
-</CD>
-<CD>
-<TITLE>Still got the blues</TITLE>
-<ARTIST>Gary Moore</ARTIST>
-<COUNTRY>UK</COUNTRY>
-<COMPANY>Virgin records</COMPANY>
-<PRICE>10.20</PRICE>
-<YEAR>1990</YEAR>
-</CD>
-<CD>
-<TITLE>Eros</TITLE>
-<ARTIST>Eros Ramazzotti</ARTIST>
-<COUNTRY>EU</COUNTRY>
-<COMPANY>BMG</COMPANY>
-<PRICE>9.90</PRICE>
-<YEAR>1997</YEAR>
-</CD>
-<CD>
-<TITLE>One night only</TITLE>
-<ARTIST>Bee Gees</ARTIST>
-<COUNTRY>UK</COUNTRY>
-<COMPANY>Polydor</COMPANY>
-<PRICE>10.90</PRICE>
-<YEAR>1998</YEAR>
-</CD>
-<CD>
-<TITLE>Sylvias Mother</TITLE>
-<ARTIST>Dr.Hook</ARTIST>
-<COUNTRY>UK</COUNTRY>
-<COMPANY>CBS</COMPANY>
-<PRICE>8.10</PRICE>
-<YEAR>1973</YEAR>
-</CD>
-<CD>
-<TITLE>Maggie May</TITLE>
-<ARTIST>Rod Stewart</ARTIST>
-<COUNTRY>UK</COUNTRY>
-<COMPANY>Pickwick</COMPANY>
-<PRICE>8.50</PRICE>
-<YEAR>1990</YEAR>
-</CD>
-<CD>
-<TITLE>Romanza</TITLE>
-<ARTIST>Andrea Bocelli</ARTIST>
-<COUNTRY>EU</COUNTRY>
-<COMPANY>Polydor</COMPANY>
-<PRICE>10.80</PRICE>
-<YEAR>1996</YEAR>
-</CD>
-<CD>
-<TITLE>When a man loves a woman</TITLE>
-<ARTIST>Percy Sledge</ARTIST>
-<COUNTRY>USA</COUNTRY>
-<COMPANY>Atlantic</COMPANY>
-<PRICE>8.70</PRICE>
-<YEAR>1987</YEAR>
-</CD>
-<CD>
-<TITLE>Black angel</TITLE>
-<ARTIST>Savage Rose</ARTIST>
-<COUNTRY>EU</COUNTRY>
-<COMPANY>Mega</COMPANY>
-<PRICE>10.90</PRICE>
-<YEAR>1995</YEAR>
-</CD>
-<CD>
-<TITLE>1999 Grammy Nominees</TITLE>
-<ARTIST>Many</ARTIST>
-<COUNTRY>USA</COUNTRY>
-<COMPANY>Grammy</COMPANY>
-<PRICE>10.20</PRICE>
-<YEAR>1999</YEAR>
-</CD>
-<CD>
-<TITLE>For the good times</TITLE>
-<ARTIST>Kenny Rogers</ARTIST>
-<COUNTRY>UK</COUNTRY>
-<COMPANY>Mucik Master</COMPANY>
-<PRICE>8.70</PRICE>
-<YEAR>1995</YEAR>
-</CD>
-<CD>
-<TITLE>Big Willie style</TITLE>
-<ARTIST>Will Smith</ARTIST>
-<COUNTRY>USA</COUNTRY>
-<COMPANY>Columbia</COMPANY>
-<PRICE>9.90</PRICE>
-<YEAR>1997</YEAR>
-</CD>
-<CD>
-<TITLE>Tupelo Honey</TITLE>
-<ARTIST>Van Morrison</ARTIST>
-<COUNTRY>UK</COUNTRY>
-<COMPANY>Polydor</COMPANY>
-<PRICE>8.20</PRICE>
-<YEAR>1971</YEAR>
-</CD>
-<CD>
-<TITLE>Soulsville</TITLE>
-<ARTIST>Jorn Hoel</ARTIST>
-<COUNTRY>Norway</COUNTRY>
-<COMPANY>WEA</COMPANY>
-<PRICE>7.90</PRICE>
-<YEAR>1996</YEAR>
-</CD>
-<CD>
-<TITLE>The very best of</TITLE>
-<ARTIST>Cat Stevens</ARTIST>
-<COUNTRY>UK</COUNTRY>
-<COMPANY>Island</COMPANY>
-<PRICE>8.90</PRICE>
-<YEAR>1990</YEAR>
-</CD>
-<CD>
-<TITLE>Stop</TITLE>
-<ARTIST>Sam Brown</ARTIST>
-<COUNTRY>UK</COUNTRY>
-<COMPANY>A and M</COMPANY>
-<PRICE>8.90</PRICE>
-<YEAR>1988</YEAR>
-</CD>
-<CD>
-<TITLE>Bridge of Spies</TITLE>
-<ARTIST>T'Pau</ARTIST>
-<COUNTRY>UK</COUNTRY>
-<COMPANY>Siren</COMPANY>
-<PRICE>7.90</PRICE>
-<YEAR>1987</YEAR>
-</CD>
-<CD>
-<TITLE>Private Dancer</TITLE>
-<ARTIST>Tina Turner</ARTIST>
-<COUNTRY>UK</COUNTRY>
-<COMPANY>Capitol</COMPANY>
-<PRICE>8.90</PRICE>
-<YEAR>1983</YEAR>
-</CD>
-<CD>
-<TITLE>Midt om natten</TITLE>
-<ARTIST>Kim Larsen</ARTIST>
-<COUNTRY>EU</COUNTRY>
-<COMPANY>Medley</COMPANY>
-<PRICE>7.80</PRICE>
-<YEAR>1983</YEAR>
-</CD>
-<CD>
-<TITLE>Pavarotti Gala Concert</TITLE>
-<ARTIST>Luciano Pavarotti</ARTIST>
-<COUNTRY>UK</COUNTRY>
-<COMPANY>DECCA</COMPANY>
-<PRICE>9.90</PRICE>
-<YEAR>1991</YEAR>
-</CD>
-<CD>
-<TITLE>The dock of the bay</TITLE>
-<ARTIST>Otis Redding</ARTIST>
-<COUNTRY>USA</COUNTRY>
-<COMPANY>Stax Records</COMPANY>
-<PRICE>7.90</PRICE>
-<YEAR>1968</YEAR>
-</CD>
-<CD>
-<TITLE>Picture book</TITLE>
-<ARTIST>Simply Red</ARTIST>
-<COUNTRY>EU</COUNTRY>
-<COMPANY>Elektra</COMPANY>
-<PRICE>7.20</PRICE>
-<YEAR>1985</YEAR>
-</CD>
-<CD>
-<TITLE>Red</TITLE>
-<ARTIST>The Communards</ARTIST>
-<COUNTRY>UK</COUNTRY>
-<COMPANY>London</COMPANY>
-<PRICE>7.80</PRICE>
-<YEAR>1987</YEAR>
-</CD>
-<CD>
-<TITLE>Unchain my heart</TITLE>
-<ARTIST>Joe Cocker</ARTIST>
-<COUNTRY>USA</COUNTRY>
-<COMPANY>EMI</COMPANY>
-<PRICE>8.20</PRICE>
-<YEAR>1987</YEAR>
-</CD>
-</CATALOG>
+<quiz>
+  <title>El Juego</title>
+    <items>
+      <item>
+        <question>"Hacer justicia es entender que unos merecen vencer y otros merecen ser derrotados"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/test-aznar-freezer_6983ce87.jpg</imagen>
+        <answer correct="y">Aznar</answer>
+        <answer>Freezer</answer>
+      </item>
+      <item>
+        <question>"Yo sólo confío en mí mismo"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-cyborg_134d2ade.jpg</imagen>
+        <answer correct="y">Aznar</answer>
+        <answer>Freezer</answer>
+      </item>		
+      <item>
+        <question>"Te recomiendo que seas honesto conmigo"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-azul_acc2e2b6.jpg</imagen>
+        <answer>Aznar</answer>
+        <answer correct="y">Freezer</answer>
+      </item>
+      <item>
+        <question>"¡Yo soy el milagro!"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-final_37f8cb39.jpg</imagen>
+        <answer correct="y">Aznar</answer>
+        <answer>Freezer</answer>
+      </item>
+      <item>
+        <question>"Me encanta inspirarme el silencio. Sus resultados siempre son maravillosos"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-silencio_48ff7524.jpg</imagen>
+        <answer correct="y">Aznar</answer>
+        <answer>Freezer</answer>
+      </item>
+      <item>
+        <question>"¿Acaso creen que voy a perdonarlos?"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-perdon_072193a8.png</imagen>
+        <answer>Aznar</answer>
+        <answer correct="y">Freezer</answer>
+      </item>
+      <item>
+        <question>"La cualidad de estos sujetos es fastidiar a las personas"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-bola_e1dd6bdc.jpg</imagen>
+        <answer>Aznar</answer>
+        <answer correct="y">Freezer</answer>
+      </item>
+      <item>
+        <question>"No están en desiertos remotos o montañas lejanas"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-nave_bc6c386b.jpg</imagen>
+        <answer correct="y">Aznar</answer>
+        <answer>Freezer</answer>
+      </item>
+      <item>
+        <question>"Este elemento no debe ser alterado substancialmente por el hombre"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-malo_067f3d99.jpg</imagen>
+        <answer correct="y">Aznar</answer>
+        <answer>Freezer</answer>
+      </item>
+      <item>
+        <question>"El dolor que sentirán será peor que estar en el infierno"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-inicio_08d9d852.jpg</imagen>
+        <answer>Aznar</answer>
+        <answer  correct="y">Freezer</answer>
+      </item>
+      <item>
+        <question>"Ya fue suficiente. Haré pedazos a este planeta"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-planeta_5d606c83.jpg</imagen>
+        <answer>Aznar</answer>
+        <answer  correct="y">Freezer</answer>
+      </item>
+    </items>
+</quiz>
