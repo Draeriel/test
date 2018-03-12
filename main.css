@@ -19,7 +19,8 @@ body{
 
 img{
     margin-bottom: 11px;
-    width: 100%;
+    width: 200%;
+    max-width: 100%;
 }
 
 .question{
