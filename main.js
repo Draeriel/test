@@ -10,7 +10,15 @@ window.onload=function (){
 
   function myFunction(xml) {
       var xmlDoc = xml.responseXML;
-      document.getElementById("demo").innerHTML =
+
+      document.getElementById("pregunta").innerHTML =
+      xmlDoc.getElementsByTagName("question")[0].childNodes[0].nodeValue;
+      
+      document.getElementById("respuesta1").innerHTML =
       xmlDoc.getElementsByTagName("answer")[0].childNodes[0].nodeValue;
+
+      document.getElementById("respuesta2").innerHTML =
+      xmlDoc.getElementsByTagName("answer")[1].childNodes[0].nodeValue;
+     
   }
     }
