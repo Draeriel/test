@@ -32,6 +32,17 @@ window.onload=function (){
       inicial = inicial + 1;
       resp1 = resp1 + 2;
       resp2 = resp2 + 2;
-      myFunction(this);     
+      
+      document.getElementById("pregunta").innerHTML =
+      xml.responseXML.getElementsByTagName("question")[inicial].childNodes[0].nodeValue;
+      
+      document.getElementById("imagen").src =
+      xml.responseXML.getElementsByTagName("imagen")[inicial].childNodes[0].nodeValue;
+      
+      document.getElementById("respuesta1").innerHTML =
+      xml.responseXML.getElementsByTagName("answer")[resp1].childNodes[0].nodeValue;
+
+      document.getElementById("respuesta2").innerHTML =
+      xml.responseXML.getElementsByTagName("answer")[resp2].childNodes[0].nodeValue; 
   }
     }
