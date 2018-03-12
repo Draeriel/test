@@ -7,21 +7,31 @@ window.onload=function (){
   };
   xhttp.open("GET", "main.xml", true);
   xhttp.send();
+  var inicial = 0;
+  var resp1 = 0;
+  var resp2 = 1;
 
   function myFunction(xml) {
       var xmlDoc = xml.responseXML;
+      
 
       document.getElementById("pregunta").innerHTML =
-      xmlDoc.getElementsByTagName("question")[0].childNodes[0].nodeValue;
+      xmlDoc.getElementsByTagName("question")[inicial].childNodes[0].nodeValue;
       
       document.getElementById("imagen").src =
-      xmlDoc.getElementsByTagName("imagen")[0].childNodes[0].nodeValue;
+      xmlDoc.getElementsByTagName("imagen")[inicial].childNodes[0].nodeValue;
       
       document.getElementById("respuesta1").innerHTML =
-      xmlDoc.getElementsByTagName("answer")[0].childNodes[0].nodeValue;
+      xmlDoc.getElementsByTagName("answer")[resp1].childNodes[0].nodeValue;
 
       document.getElementById("respuesta2").innerHTML =
-      xmlDoc.getElementsByTagName("answer")[1].childNodes[0].nodeValue;
-     
+      xmlDoc.getElementsByTagName("answer")[resp2].childNodes[0].nodeValue;   
+  }
+
+  function next() {
+      inicial = inicial + 1;
+      resp1 = resp1 + 2;
+      resp2 = resp2 + 2;
+      myFunction(this);     
   }
     }
