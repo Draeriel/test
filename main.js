@@ -28,6 +28,7 @@ window.onload=function (){
       xmlDoc.getElementsByTagName("answer")[resp2].childNodes[0].nodeValue;   
   }
 
+  document.getElementById("next").onclick = function() {next()};
   function next() {
       inicial = inicial + 1;
       resp1 = resp1 + 2;
